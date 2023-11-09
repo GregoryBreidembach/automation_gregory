@@ -18,14 +18,15 @@ Antes de ejecutar el proyecto, sigue este paso de configuración:
 3. Navegar a "propiedades del sistema" > "opciones avanzadas" > "Variables de entorno"
 4. En la sección de variables del sistema elegir Path > Editar
 5. Hacer click en Nuevo y pegar la ruta del chromedriver copiada
+
 En este video puede observar este proceso "https://www.youtube.com/watch?v=W4bHb1BsbnU&ab_channel=RecursionClub" desde el segundo 0:26 en adelante
 
 ## Uso
 
 Estando dentro de la carpeta en la terminal, ejecutar los scripts:
 
-python login.py
-
 python register.py
+
+python login.py
 
 python login_register.py
